@@ -1,0 +1,2 @@
+learning the  git basics
+using the command prompt
